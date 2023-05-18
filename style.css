@@ -1,0 +1,70 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container
+{
+    max-width: 420px;
+    min-height: auto;
+    padding: 12px;
+}
+
+main
+{
+    margin-top: 15px;
+    padding: 20px;
+}
+ 
+header h1
+{
+    font-size: 2em;
+    font-weight: 2em;
+    text-align: center;
+}
+
+.row
+{
+    margin:0 auto;
+}
+.col-sm-10
+{
+    margin:0 auto;
+}
+
+.form-control
+{
+    padding: 10px;
+    font-size: 20px;
+    width: 100%;
+}
+
+
+.submitLogin
+{
+    margin:0 auto;
+    display: inline;
+    width: 100px;
+    margin-left: 30px;
+}
+
+.gender
+{
+    font-weight: 10px;
+    font-size: 20px;
+    margin-right:12px;
+}
+
+.submitLogin .btn
+{
+    background-color: grey !important;
+    border:none;
+}
+
+.comments .cmh, .cb
+{
+    background-color: grey !important;
+    color: #fff;
+}
